@@ -1,0 +1,5 @@
+﻿  function.cpp
+D:\Tools\Programming\C++\ItStep\Homework  9\CPluPlus_Homework_9\Ex1\function.cpp(21,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\Homework  9\CPluPlus_Homework_9\Ex1\function.cpp(89,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\Homework  9\CPluPlus_Homework_9\Ex1\function.cpp(157,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Ex1.vcxproj -> D:\Tools\Programming\C++\ItStep\Homework  9\CPluPlus_Homework_9\Ex1\Debug\Ex1.exe

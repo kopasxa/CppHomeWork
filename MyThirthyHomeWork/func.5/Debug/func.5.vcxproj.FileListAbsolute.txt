@@ -1,0 +1,2 @@
+D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.5\Debug\func.5.exe
+D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.5\Debug\func.5.pdb

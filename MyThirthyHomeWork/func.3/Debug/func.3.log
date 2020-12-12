@@ -1,0 +1,3 @@
+﻿  func.3.cpp
+D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.3\func.3.cpp(21,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  func.3.vcxproj -> D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.3\Debug\func.3.exe

@@ -1,0 +1,4 @@
+D:\Tools\Programy\C++\ItStep\Program10\Debug\Program10.exe
+D:\Tools\Programy\C++\ItStep\Program10\Debug\Program10.pdb
+D:\Tools\Programy\C++\ItStep\MySecodHomeWork\Program10\Debug\Program10.exe
+D:\Tools\Programy\C++\ItStep\MySecodHomeWork\Program10\Debug\Program10.pdb

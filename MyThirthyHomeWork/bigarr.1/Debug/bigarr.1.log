@@ -1,0 +1,3 @@
+﻿  bigarr.1.cpp
+D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\bigarr.1\bigarr.1.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  bigarr.1.vcxproj -> D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\bigarr.1\Debug\bigarr.1.exe

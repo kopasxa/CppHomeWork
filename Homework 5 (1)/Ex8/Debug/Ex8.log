@@ -1,0 +1,5 @@
+﻿  Ex8.cpp
+D:\Tools\Programming\C++\ItStep\Homework 6\Ex8\Ex8.cpp(17,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\Homework 6\Ex8\Ex8.cpp(21,9): warning C4101: i: неиспользованная локальная переменная
+D:\Tools\Programming\C++\ItStep\Homework 6\Ex8\Ex8.cpp(50): warning C4715: out: значение возвращается не при всех путях выполнения
+  Ex8.vcxproj -> D:\Tools\Programming\C++\ItStep\Homework 6\Ex8\Debug\Ex8.exe

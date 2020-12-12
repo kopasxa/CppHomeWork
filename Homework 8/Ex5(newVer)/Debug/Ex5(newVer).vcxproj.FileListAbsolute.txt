@@ -1,0 +1,2 @@
+D:\Tools\Programming\C++\ItStep\Homework 8\Ex5(newVer)\Debug\Ex5(newVer).exe
+D:\Tools\Programming\C++\ItStep\Homework 8\Ex5(newVer)\Debug\Ex5(newVer).pdb

@@ -1,0 +1,3 @@
+﻿  biharr.2.cpp
+D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\biharr.2\biharr.2.cpp(27,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  biharr.2.vcxproj -> D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\biharr.2\Debug\biharr.2.exe
