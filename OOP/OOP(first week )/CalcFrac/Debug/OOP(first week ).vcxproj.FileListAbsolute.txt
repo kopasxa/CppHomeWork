@@ -1,0 +1,2 @@
+D:\Tools\Programming\C++\ItStep\CppHomeWork\OOP\OOP(first week )\Debug\OOP(first week ).exe
+D:\Tools\Programming\C++\ItStep\CppHomeWork\OOP\OOP(first week )\Debug\OOP(first week ).pdb
