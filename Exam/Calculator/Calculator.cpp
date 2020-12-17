@@ -55,14 +55,14 @@ string searchBrace( string str ) {
 
 string count( string str ) {
     string temp = "";
-    string *lox = new string[str.length()];
+    string *kek = new string[str.length()];
 
     int i;
     
     /*for (i = 0; i < str.length(); i++) {
         if (str[i] == '+' || str[i] == '-' || str[i] == '*' || str[i] == '/') {
-            lox[i] += temp;
-            lox[i] += str[i];
+            kek[i] += temp;
+            kek[i] += str[i];
             temp = "";
         }
         else {
@@ -72,10 +72,10 @@ string count( string str ) {
                 num += str[k];
                 k++;
             }
-            lox[i] += num;
+            kek[i] += num;
         } 
     }*/
-    /*lox[i] += temp;*/
+    /*kek[i] += temp;*/
 
     for (i = 0; i < str.length(); i++) {
         if (str[i] == '*' || str[i] == '/') {
