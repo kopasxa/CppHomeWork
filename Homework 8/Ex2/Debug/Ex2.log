@@ -1,4 +1,0 @@
-﻿  Ex2.cpp
-D:\Tools\Programming\C++\ItStep\Homework 8\Ex2\Ex2.cpp(66,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-D:\Tools\Programming\C++\ItStep\Homework 8\Ex2\Ex2.cpp(64,3): warning C4101: j: неиспользованная локальная переменная
-  Ex2.vcxproj -> D:\Tools\Programming\C++\ItStep\Homework 8\Ex2\Debug\Ex2.exe

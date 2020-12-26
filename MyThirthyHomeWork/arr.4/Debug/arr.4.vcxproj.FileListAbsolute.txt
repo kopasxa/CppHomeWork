@@ -1,2 +1,0 @@
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\arr.4\Debug\arr.4.exe
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\arr.4\Debug\arr.4.pdb

@@ -1,2 +1,0 @@
-D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\Calculator\Debug\Calculator.exe
-D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\Calculator\Debug\Calculator.pdb

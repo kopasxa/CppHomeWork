@@ -1,2 +1,0 @@
-D:\Tools\Programy\C++\ItStep\MyFirstHomeWork\Debug\MyFirstHomeWork.exe
-D:\Tools\Programy\C++\ItStep\MyFirstHomeWork\Debug\MyFirstHomeWork.pdb

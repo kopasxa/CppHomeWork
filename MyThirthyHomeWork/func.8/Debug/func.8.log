@@ -1,4 +1,0 @@
-﻿  func.8.cpp
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.8\func.8.cpp(26,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.8\func.8.cpp(31,9): warning C4101: j: неиспользованная локальная переменная
-  func.8.vcxproj -> D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.8\Debug\func.8.exe

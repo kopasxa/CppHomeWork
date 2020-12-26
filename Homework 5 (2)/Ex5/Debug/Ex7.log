@@ -1,3 +1,0 @@
-﻿  Ex7.cpp
-D:\Tools\Programming\C++\ItStep\Homework 6\Ex7\Ex7.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Ex7.vcxproj -> D:\Tools\Programming\C++\ItStep\Homework 6\Ex7\Debug\Ex7.exe

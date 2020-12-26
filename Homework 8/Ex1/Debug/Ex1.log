@@ -1,4 +1,0 @@
-﻿  Ex1.cpp
-D:\Tools\Programming\C++\ItStep\Homework 8\Ex1\Ex1.cpp(60,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-D:\Tools\Programming\C++\ItStep\Homework 8\Ex1\Ex1.cpp(58,3): warning C4101: j: неиспользованная локальная переменная
-  Ex1.vcxproj -> D:\Tools\Programming\C++\ItStep\Homework 8\Ex1\Debug\Ex1.exe

@@ -1,2 +1,0 @@
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.7\Debug\func.7.exe
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.7\Debug\func.7.pdb

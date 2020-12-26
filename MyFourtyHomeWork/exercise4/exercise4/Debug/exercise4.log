@@ -1,3 +1,0 @@
-﻿  exercise4.cpp
-D:\Tools\Programming\C++\ItStep\MyFourtyHomeWork\exercise4\exercise4\exercise4.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  exercise4.vcxproj -> D:\Tools\Programming\C++\ItStep\MyFourtyHomeWork\exercise4\Debug\exercise4.exe

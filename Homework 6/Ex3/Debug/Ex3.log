@@ -1,3 +1,0 @@
-﻿  Ex3.cpp
-D:\Tools\Programming\C++\ItStep\Homework 6\Ex3\Ex3.cpp(25,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Ex3.vcxproj -> D:\Tools\Programming\C++\ItStep\Homework 6\Ex3\Debug\Ex3.exe

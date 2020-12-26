@@ -1,2 +1,0 @@
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\bigarr.1\Debug\bigarr.1.exe
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\bigarr.1\Debug\bigarr.1.pdb

@@ -1,2 +1,0 @@
-D:\Tools\Programming\C++\ItStep\Homework 8\Ex2\Debug\Ex2.exe
-D:\Tools\Programming\C++\ItStep\Homework 8\Ex2\Debug\Ex2.pdb

@@ -1,2 +1,0 @@
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\for.2\Debug\for.2.exe
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\for.2\Debug\for.2.pdb

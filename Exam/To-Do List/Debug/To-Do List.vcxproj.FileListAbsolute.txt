@@ -1,2 +1,0 @@
-D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\To-Do List\Debug\To-Do List.exe
-D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\To-Do List\Debug\To-Do List.pdb

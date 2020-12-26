@@ -1,4 +1,0 @@
-D:\Tools\Programy\C++\ItStep\Program19\Debug\Program19.exe
-D:\Tools\Programy\C++\ItStep\Program19\Debug\Program19.pdb
-D:\Tools\Programy\C++\ItStep\MySecodHomeWork\Program19\Debug\Program19.exe
-D:\Tools\Programy\C++\ItStep\MySecodHomeWork\Program19\Debug\Program19.pdb

@@ -1,4 +1,0 @@
-﻿  Ex4.cpp
-D:\Tools\Programming\C++\ItStep\Homework 8\Ex4\Ex4.cpp(42,19): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-D:\Tools\Programming\C++\ItStep\Homework 8\Ex4\Ex4.cpp(43,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Ex4.vcxproj -> D:\Tools\Programming\C++\ItStep\Homework 8\Ex4\Debug\Ex4.exe

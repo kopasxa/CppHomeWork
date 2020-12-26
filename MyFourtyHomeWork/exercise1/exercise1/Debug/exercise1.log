@@ -1,4 +1,0 @@
-﻿  exercise1.cpp
-D:\Tools\Programming\C++\ItStep\MyFourtyHomeWork\exercise1\exercise1\exercise1.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-D:\Tools\Programming\C++\ItStep\MyFourtyHomeWork\exercise1\exercise1\exercise1.cpp(33,12): warning C4101: arrD: неиспользованная локальная переменная
-  exercise1.vcxproj -> D:\Tools\Programming\C++\ItStep\MyFourtyHomeWork\exercise1\Debug\exercise1.exe

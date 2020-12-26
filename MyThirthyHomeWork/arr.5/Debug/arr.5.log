@@ -1,3 +1,0 @@
-﻿  arr.5.cpp
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\arr.5\arr.5.cpp(9,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  arr.5.vcxproj -> D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\arr.5\Debug\arr.5.exe

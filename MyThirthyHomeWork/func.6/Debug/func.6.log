@@ -1,3 +1,0 @@
-﻿  func.6.cpp
-D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.6\func.6.cpp(15,12): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-  func.6.vcxproj -> D:\Tools\Programming\C++\ItStep\MyThirthyHomeWork\func.6\Debug\func.6.exe
