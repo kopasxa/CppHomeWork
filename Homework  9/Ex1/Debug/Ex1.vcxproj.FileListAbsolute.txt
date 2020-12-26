@@ -1,2 +1,0 @@
-D:\Tools\Programming\C++\ItStep\Homework  9\CPluPlus_Homework_9\Ex1\Debug\Ex1.exe
-D:\Tools\Programming\C++\ItStep\Homework  9\CPluPlus_Homework_9\Ex1\Debug\Ex1.pdb
