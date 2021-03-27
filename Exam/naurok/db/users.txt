@@ -1,0 +1,5 @@
+itStep
+1 admin 21232f297a57a5a743894a0e4a801fc3 admin null null null 0
+2 pashak 3e456a9f20a0109e9510f1a9143da61f student Pavel Korolenko Volod +380660317686
+3 vlK 3e456a9f20a0109e9510f1a9143da61f teacher Vlad Korel Volod +380979075756
+4 kasha 3e456a9f20a0109e9510f1a9143da61f teacher Kasha Kolokov Nikovaevich +380996668354

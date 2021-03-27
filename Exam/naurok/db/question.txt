@@ -1,0 +1,6 @@
+Lox 0 4
+Hello World?
+yes 100
+no 0
+no 0
+no 0
