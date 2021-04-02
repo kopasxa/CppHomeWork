@@ -1,6 +1,40 @@
-Lox 0 4
-Hello World?
+test 1 4 1
+Hello World1?
 yes 100
 no 0
 no 0
 no 0
+
+test 2 4 1
+Hello World2?
+no 0
+yes 100
+no 0
+no 0
+
+test 3 4 1
+Hello World3?
+no 0
+no 0
+no 0
+yes 100
+
+test 4 4 2
+Hello World4?
+yes 50
+no 0
+yes 50
+no 0
+
+test 5 4 2
+Hello World4?
+yes 50
+no 0
+yes 50
+no 0
+
+test 5 3 3
+My World
+yes 100
+ye 100
+es 100

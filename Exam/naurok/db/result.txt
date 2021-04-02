@@ -1,0 +1,15 @@
+
+
+pashak test 6 6
+Hello World1?
+yes
+Hello World2?
+yes
+Hello World3?
+yes
+Hello World4?
+yes yes
+Hello World4?
+yes yes
+My World
+ye

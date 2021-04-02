@@ -6,12 +6,12 @@
 #include <conio.h>
 #include <fstream>
 #include <algorithm>
-#include <ctime>
 
 using namespace std;
 
 #include "assets/userAdmin.cpp"
-#include "assets/userTeacher.cpp"
+#include "assets/userTeacher.h"
+#include "assets/userStudent.h"
 //#include "assets/md.cpp"
 #define keyForDB "itStep"
 
@@ -35,6 +35,7 @@ int main() {
     string login,
         password;
     DWORD res;
+    auto_ptr<userTeacher> teacher( new userTeacher );
 
     while (!EXIT) {
         while (!auth) {
@@ -103,11 +104,6 @@ int main() {
         if (auth) {
             if (whatUser == "ADMIN") {
                 auto_ptr<userAdmin> admin(new userAdmin);
-                //clock_t t0 = clock();
-                //Sleep(2000);
-                //clock_t t1 = clock();
-                //cout << "time: " << (double)(t1 - t0) / CLOCKS_PER_SEC << endl;
-                //Sleep( 2000 );
 
                 while (true) {
                     system( "cls" );
@@ -118,11 +114,12 @@ int main() {
                     cout << "Добавить пользователя (нажмите A)\nУдалить пользователя (нажмите D)\nПросмотр всех пользователей (нажмите S)\nESC для выхода\n";
 
                     while (!_kbhit());
+                    int button = _getch();
 
-                    if (_getch() == 97) {
+                    if (button == 97) {
                         admin->add();
                     }
-                    else if (_getch() == 100) {
+                    else if (button == 100) {
                         cout << "\nУкажите какого пользователя хотите удалить (id)\n";
                         admin->writeListUsers();
                         int idUser;
@@ -140,42 +137,91 @@ int main() {
                             Sleep( 2000 );
                         }
                     }
-                    else if (_getch() == 115) {
+                    else if (button == 115) {
                         admin->writeListUsers();
                         cout << "\nЧтобы продолжить нажмите любую клавишу...\n";
 
                         while (!_kbhit());
                     }
-                    else if (_getch() == 27) {
+                    else if (button == 27) {
                         auth = false;
                         break;
                     }
                 }
             }
             else if (whatUser == "TEACHER") {
-                auto_ptr<userTeacher> teacher(new userTeacher);
                 //userTeacher* teacher = new userTeacher;
                 system( "cls" );
                 SetPos( 47, 0 );
                 system( "color 01" );
 
                 cout << "Панель преподователя\n";
-                cout << "Создать тест (нажмите С)\nДеактивировать тест (нажмите D)\n";
+                cout << "Создать тест (нажмите С)\nИзменить статус теста (нажмите D)\nДобавить вопрос в тест (нажмите Q)\nДобавить вопрос с другого теста (нажмите K)\nПосмотреть результаты теста (нажмите V)\nESC для выхода\n";
 
                 while (!_kbhit());
+                int button = _getch();
 
-                if (_getch() == 99) {
+                if (button == 99) {
                     teacher->createTest();
                 }
-                else if (_getch() == 100) {
-
+                else if (button == 100) {
+                    teacher->changeStatusTest();
                 }
-
-                EXIT = true;
+                else if (button == 113) {
+                    teacher->printTests();
+                    cout << "Выберите тест в который нужно добавить вопрос: ";
+                    int num;
+                    cin >> num;
+                    string nameTest = teacher->qById( num );
+                    teacher->addQuestion( nameTest );
+                }
+                else if (button == 107) {
+                    teacher->qAddTo();
+                }
+                else if (button == 118) {
+                    teacher->readResults();
+                }
+                else if (button == 27) {
+                    EXIT = true;
+                }
             }
             else if (whatUser == "STUDENT") {
-                cout << "Hello student!)\n";
-                EXIT = true;
+                auto_ptr<userStudent> student( new userStudent );
+                system( "cls" );
+                SetPos( 47, 0 );
+                system( "color 01" );
+
+                cout << "Панель студента\n";
+                bool is = teacher->printTests(1);
+                
+                if ( is ) {
+                    cout << "Чтобы выйти введите 0\n";
+                    cout << "Выберите тест для прохождения: ";
+                    int num;
+                    cin >> num;
+
+                    if (num == 0) {
+                        EXIT = true;
+                        break;
+                    }
+
+                    string nameTest = teacher->qById( num );
+
+                    cout << "Чтобы начать нажмите Enter \\ ESC чтобы выйти\n";
+
+                    while (!_kbhit());
+                    int button = _getch();
+
+                    if (button == 13) {
+                        student->startTest( nameTest, login );
+                    }
+                    else if (button == 27) {
+                        EXIT = true;
+                    }
+                }
+                else {
+                    EXIT = true;
+                }
             }
             else {
                 cout << "У вас нет прав на использование программы, обратитесь к администратору \n";

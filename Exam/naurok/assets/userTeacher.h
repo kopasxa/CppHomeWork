@@ -12,9 +12,10 @@ using namespace std;
 #define pathToQuestion "db/question.txt"
 #define pathToTestsTemp "db/testsTemp.txt"
 #define pathToQuestionTemp "db/questionTemp.txt"
+#define pathToResults "db/result.txt"
 
 struct question {
-	int id;
+	int id, variantQ;
 	string header;
 
 	struct answer {
@@ -30,16 +31,26 @@ class userTeacher {
 	void SetPos( int x, int y );
 
 	fstream testFile;
+	fstream testFileTemp;
 	fstream testQuestion;
 	fstream testQuestionTemp;
+	fstream result;
 
 	int quantityQ(string testName);
-	question addQuestion( int id, string nameTest );
 	bool delQuestion( int id, string nameTest );
-	void allQuestion( string nameTest );
+	question findQ(int id);
 
 public:
+	string qById( int id );
+	question addQuestion( int id, string nameTest );
+	question addQuestion( question quest, string nameTest );
+	question addQuestion( string nameTest );
+	void qAddTo();
+	void allQuestion();
+	void printTests();
+	bool printTests(bool trueS);
+	bool changeStatusTest();
 	bool createTest();
-	bool startTest();
+	bool readResults();
 };
 

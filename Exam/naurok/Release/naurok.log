@@ -1,0 +1,53 @@
+﻿  md.cpp
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\md.cpp(46,19): warning C4018: <: несоответствие типов со знаком и без знака
+  userAdmin.cpp
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\md.cpp(46,19): warning C4018: <: несоответствие типов со знаком и без знака
+  userStudent.cpp
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(33,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(50,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(71,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(85,47): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(96,47): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(108,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(123,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(153,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(156,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(174,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userStudent.cpp(176,27): warning C4018: <: несоответствие типов со знаком и без знака
+  userTeacher.cpp
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(184,32): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(273,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(281,43): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(289,36): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(299,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(343,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(349,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(361,36): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(371,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(401,35): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(411,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(441,33): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(451,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(501,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(509,43): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(517,36): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(527,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(571,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(577,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(589,36): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(599,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(629,35): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(639,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(713,40): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  naurok.cpp
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\md.cpp(46,19): warning C4018: <: несоответствие типов со знаком и без знака
+userAdmin.obj : warning LNK4006: "char * __cdecl md(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,unsigned long *)" (?md@@YAPADV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAK@Z) уже определен в md.obj; второе определение пропущено
+naurok.obj : warning LNK4006: "char * __cdecl md(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,unsigned long *)" (?md@@YAPADV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAK@Z) уже определен в md.obj; второе определение пропущено
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\Release\naurok.exe : warning LNK4088: образ создается из-за параметра /FORCE; образ нельзя запустить
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(237): warning C4715: userTeacher::qById: значение возвращается не при всех путях выполнения
+D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\assets\userTeacher.cpp(769): warning C4715: userTeacher::findQ: значение возвращается не при всех путях выполнения
+  All 685 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  naurok.vcxproj -> D:\Tools\Programming\C++\ItStep\CppHomeWork\Exam\naurok\Release\naurok.exe
